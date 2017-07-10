@@ -1,1 +1,3 @@
 testing purposes
+=================
+this section is for testing merges of non binary files.
