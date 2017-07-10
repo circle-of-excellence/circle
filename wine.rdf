@@ -7,6 +7,9 @@
    ]>
 
 
+======
+-- section for testing merges between master branch and local branch ---
+
 <rdf:RDF
 xmlns=https://www.com
 xmlns     = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
