@@ -5,7 +5,7 @@
      <!ENTITY owl  "http://www.w3.org/2002/07/owl#" >
      <!ENTITY xsd  "http://www.w3.org/2001/XMLSchema#" >
    ]>
-
+-- section for testing merges between master branch and local branch ---
 <rdf:RDF
   xmlns     = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
   xmlns:vin = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
