@@ -1,0 +1,22 @@
+Galal: owner.
+Sara: works at mobility.
+islam: works as CM
+emad: works as system administration.
+bola: works as mobile developer.
+yasmine: mobility.
+amr yehya: system analysis
+hany: qc director.
+nader: ceo
+mohamed saad: developer.
+ahmed rafik: qc.
+dina: mobility.
+ezz: qc.
+tarek: mobility.
+ahmed abdelrazek: team leader mobility.
+ehab magdy: back end.
+ehab abdelghaffar: team leader ux.
+essam: system analyst.
+sherif: development manager/team leader smart traffic.
+ahmed el said: QC.
+bastaweesy: mobility developer.
+ismaiel: mobility developer.
