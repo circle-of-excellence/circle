@@ -6,8 +6,10 @@
      <!ENTITY xsd  "http://www.w3.org/2001/XMLSchema#" >
    ]>
 
+
 <rdf:RDF
-  xmlns     = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
+xmlns=https://www.com
+xmlns     = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
   xmlns:vin = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
   xml:base  = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
   xmlns:food= "http://www.w3.org/TR/2003/PR-owl-guide-20031209/food#"
