@@ -13,7 +13,7 @@
 
 <rdf:RDF
 xmlns=https://www.com
-xmlns=https://www.12345678910101010101010101010.com
+xmlns=https://www.1234567891020304050.com
 xmlns     = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
   xmlns:vin = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
   xml:base  = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
