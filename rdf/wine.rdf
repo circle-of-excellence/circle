@@ -12,7 +12,8 @@
 -- section for testing merges between master branch and local branch ---
 
 <rdf:RDF
-xmlns=https://www.com
+xmlns=https://www.worldcup.com
+xmlns=https://www.tennisball.com
 =======
 xmlns=https://www.1234567891020304050.com
 xmlns     = "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine#"
